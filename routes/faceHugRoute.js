@@ -4,7 +4,7 @@ const { hugFaces } = require('./../utils/facehug');
 const router = express.Router();
 
 const storage = multer.memoryStorage();
-const upload = multer({ storage });
+const upload = multer({ storage }); 
 
 router.post('/', upload.fields([{ name: 'image1' }, { name: 'image2' }]), async (req, res) => {
   try {
