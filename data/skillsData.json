@@ -1,0 +1,345 @@
+{
+    "skills": [
+        {
+            "category": "Technical & IT",
+            "skills": [
+                {
+                    "name": "Python",
+                    "version": "3.10"
+                },
+                {
+                    "name": "JavaScript",
+                    "version": "ES2022"
+                },
+                {
+                    "name": "Java",
+                    "version": "17"
+                },
+                {
+                    "name": "C++",
+                    "version": "C++20"
+                },
+                {
+                    "name": "C#",
+                    "version": "10.0"
+                },
+                {
+                    "name": "Swift",
+                    "version": "5.6"
+                },
+                {
+                    "name": "PHP",
+                    "version": "8.1"
+                },
+                {
+                    "name": "Ruby",
+                    "version": "3.1"
+                },
+                {
+                    "name": "Kotlin",
+                    "version": "1.7"
+                },
+                {
+                    "name": "Go",
+                    "version": "1.18"
+                },
+                {
+                    "name": "Rust",
+                    "version": "1.62"
+                },
+                {
+                    "name": "TypeScript",
+                    "version": "4.7"
+                },
+                {
+                    "name": "HTML",
+                    "version": "5"
+                },
+                {
+                    "name": "CSS",
+                    "version": "3"
+                },
+                {
+                    "name": "React.js",
+                    "version": "18"
+                },
+                {
+                    "name": "Angular",
+                    "version": "14"
+                },
+                {
+                    "name": "Vue.js",
+                    "version": "3"
+                },
+                {
+                    "name": "Next.js",
+                    "version": "12"
+                },
+                {
+                    "name": "Node.js",
+                    "version": "16"
+                },
+                {
+                    "name": "Express.js",
+                    "version": "4.17"
+                },
+                {
+                    "name": "GraphQL",
+                    "version": "16"
+                },
+                {
+                    "name": "REST API",
+                    "version": "1.0"
+                },
+                {
+                    "name": "WebSockets",
+                    "version": "1.0"
+                },
+                {
+                    "name": "MySQL",
+                    "version": "8.0"
+                },
+                {
+                    "name": "PostgreSQL",
+                    "version": "14"
+                },
+                {
+                    "name": "MongoDB",
+                    "version": "6.0"
+                },
+                {
+                    "name": "SQLite",
+                    "version": "3.37"
+                },
+                {
+                    "name": "Redis",
+                    "version": "7.0"
+                },
+                {
+                    "name": "MariaDB",
+                    "version": "10.7"
+                },
+                {
+                    "name": "Cassandra",
+                    "version": "4.0"
+                },
+                {
+                    "name": "Firebase Firestore",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Oracle Database",
+                    "version": "21c"
+                },
+                {
+                    "name": "Microsoft SQL Server",
+                    "version": "2022"
+                },
+                {
+                    "name": "DynamoDB",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Neo4j",
+                    "version": "4.4"
+                },
+                {
+                    "name": "CouchDB",
+                    "version": "3.2"
+                },
+                {
+                    "name": "Elasticsearch",
+                    "version": "8.2"
+                },
+                {
+                    "name": "Machine Learning",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Deep Learning",
+                    "version": "1.0"
+                },
+                {
+                    "name": "NLP",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Computer Vision",
+                    "version": "1.0"
+                },
+                {
+                    "name": "TensorFlow",
+                    "version": "2.9"
+                },
+                {
+                    "name": "PyTorch",
+                    "version": "1.12"
+                },
+                {
+                    "name": "Scikit-learn",
+                    "version": "1.1"
+                },
+                {
+                    "name": "Pandas",
+                    "version": "1.4"
+                },
+                {
+                    "name": "NumPy",
+                    "version": "1.22"
+                },
+                {
+                    "name": "OpenCV",
+                    "version": "4.5"
+                },
+                {
+                    "name": "Reinforcement Learning",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Data Visualization",
+                    "version": "1.0"
+                }
+            ]
+        },
+        {
+            "category": "Finance & Business",
+            "skills": [
+                {
+                    "name": "Financial Accounting",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Cost Accounting",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Auditing",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Tax Compliance",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Bookkeeping",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Stock Market Analysis",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Cryptocurrency Trading",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Risk Management",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Portfolio Management",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Financial Modeling",
+                    "version": "1.0"
+                }
+            ]
+        },
+        {
+            "category": "Healthcare & Medicine",
+            "skills": [
+                {
+                    "name": "General Medicine",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Surgery",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Pediatrics",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Psychiatry",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Dermatology",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Oncology",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Orthopedics",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Radiology",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Electronic Medical Records",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Telemedicine",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Health Data Analytics",
+                    "version": "1.0"
+                }
+            ]
+        },
+        {
+            "category": "Engineering & Manufacturing",
+            "skills": [
+                {
+                    "name": "Mechanical Engineering",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Electrical Engineering",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Civil Engineering",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Structural Engineering",
+                    "version": "1.0"
+                }
+            ]
+        },
+        {
+            "category": "Sales & Marketing",
+            "skills": [
+                {
+                    "name": "SEO",
+                    "version": "1.0"
+                },
+                {
+                    "name": "SEM",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Social Media Marketing",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Content Marketing",
+                    "version": "1.0"
+                },
+                {
+                    "name": "Influencer Marketing",
+                    "version": "1.0"
+                }
+            ]
+        }
+    ]
+}
