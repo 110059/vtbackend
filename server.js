@@ -8,6 +8,8 @@ const skillRoute = require("./routes/skillRoute");
 const categoryRoute = require("./routes/categoryRoute");
 const resumeRoute = require("./routes/resumeRoute");
 const faceHugRoute = require("./routes/faceHugRoute");
+const qrRoute = require("./routes/qrRoute");
+
 
 const path = require("path");
 const cors = require("cors");
@@ -59,6 +61,7 @@ app.use("/categories", categoryRoute);
 app.use("/resume", resumeRoute);
 app.use("/upload", uploadRoute);
 app.use("/facehug", faceHugRoute);
+app.use("/qr", qrRoute);
 
 
 app.get("/test", (req, res) => {
